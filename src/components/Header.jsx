@@ -33,7 +33,7 @@ function Header() {
                                 </span>
                             </a>
                                 <div className='absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex'>
-                                    <a href='' className='w-[80px] h-[35px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
+                                    <a href='' className='w-[60px] h-[30px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
                                     </a>
                                 </div>
                             </li>
@@ -43,7 +43,7 @@ function Header() {
                                 </span>
                             </a>
                                 <div className='absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex'>
-                                    <a href='' className='w-[80px] h-[35px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
+                                    <a href='' className='w-[60px] h-[30px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
                                     </a>
                                 </div></li>
                             <li><a href='' className='ff_Gilroy font-normal text-base text-white flex items-center gap-[5px]'>Portfolio
@@ -54,7 +54,7 @@ function Header() {
                                 </span>
                             </a>
                                 <div className='absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex'>
-                                    <a href='' className='w-[80px] h-[35px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
+                                    <a href='' className='w-[60px] h-[30px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
                                     </a>
                                 </div></li>
                             <li><a href='' className='ff_Gilroy font-normal text-base text-white flex items-center gap-[5px]'>Blog
@@ -75,7 +75,7 @@ function Header() {
                                     </span>
                                 </a>
                                 <div className='absolute bg-transparent min-w-[109px] z-[1] hidden justify-center items-center flex-col left-0 right-0 top-[43px] transition-all duration-300 ease-linear group-hover:flex'>
-                                    <a href='' className='w-[80px] h-[35px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Home
+                                    <a href='' className='w-[60px] h-[30px] text-black bg-white flex justify-center items-center ff_Gilroy text-base font-normal'>Spanish
                                     </a>
                                 </div>
                             </li>
