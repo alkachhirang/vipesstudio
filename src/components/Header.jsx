@@ -128,7 +128,7 @@ function Header() {
                                 Tell us more....
                             </h2>
                             <p
-                                className=" text-white text-[16px] ff_Gilroy lg:text-start text-center max-w-[573px] font-normal"
+                                className=" text-white text-[16px] ff_Gilroy lg:text-start text-center font-normal"
                                 data-aos="fade-up-right"
                             >
                                 Lectus vitae est ultrices sed. Sit aliquam commodo hac donec
