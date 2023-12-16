@@ -63,7 +63,7 @@ const Features = () => {
             <div className=" bg-[#f6f6f6]">
                 <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[50px] sm:pt-[100px]">
                     <h2
-                        className=" ff_KonexyPersonalUse text-[37px] sm:text-[48px] text-black font-normal"
+                        className=" ff_KonexyPersonalUse text-[30px] sm:text-[48px] text-black font-normal"
                         data-aos="fade-down-right"
                     >
                         Featured on

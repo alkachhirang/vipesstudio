@@ -122,7 +122,7 @@ function Header() {
                     <div className=" flex  max-lg:flex-col items-center justify-between">
                         <div>
                             <h2
-                                className=" text-white text-[36px] lg:text-start text-center font-normal ff_KonexyPersonalUse relative pb-[16px]"
+                                className=" text-white text-[31px] sm:text-[36px] lg:text-start text-center font-normal ff_KonexyPersonalUse relative pb-[16px]"
                                 data-aos="fade-up-right"
                             >
                                 Tell us more....
