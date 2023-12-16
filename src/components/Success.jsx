@@ -5,7 +5,7 @@ import successImg from "../assets/images/png/success-img-1.png";
 const SuccessGuides = () => {
     return (
         <>
-            <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[50px] md:pt-[100px] sm:pt-[170px]">
+            <div className="container xl:max-w-[1320px] mx-auto md:px-6 px-4 pt-[50px] md:pt-[100px] xl:pt-[160px] sm:pt-[170px]">
                 <div className=" flex flex-row flex-wrap lg:justify-end justify-center">
                     <div className=" lg:w-4/12 flex px-3">
                         <img
